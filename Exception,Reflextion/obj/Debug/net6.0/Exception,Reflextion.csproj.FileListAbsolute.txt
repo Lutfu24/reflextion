@@ -1,0 +1,15 @@
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\obj\Debug\net6.0\Exception,Reflextion.csproj.AssemblyReference.cache
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\obj\Debug\net6.0\Exception,Reflextion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\obj\Debug\net6.0\Exception,Reflextion.AssemblyInfoInputs.cache
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\obj\Debug\net6.0\Exception,Reflextion.AssemblyInfo.cs
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\obj\Debug\net6.0\Exception,Reflextion.csproj.CoreCompileInputs.cache
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\bin\Debug\net6.0\Exception,Reflextion.exe
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\bin\Debug\net6.0\Exception,Reflextion.deps.json
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\bin\Debug\net6.0\Exception,Reflextion.runtimeconfig.json
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\bin\Debug\net6.0\Exception,Reflextion.dll
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\bin\Debug\net6.0\Exception,Reflextion.pdb
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\obj\Debug\net6.0\Exception,Reflextion.dll
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\obj\Debug\net6.0\refint\Exception,Reflextion.dll
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\obj\Debug\net6.0\Exception,Reflextion.pdb
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\obj\Debug\net6.0\Exception,Reflextion.genruntimeconfig.cache
+C:\Users\99451\source\repos\Exception,Reflextion\Exception,Reflextion\obj\Debug\net6.0\ref\Exception,Reflextion.dll
